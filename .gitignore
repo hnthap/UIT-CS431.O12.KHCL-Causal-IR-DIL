@@ -1,0 +1,11 @@
+# Secret information file
+
+# .ZIP file
+McM.zip
+
+# Extracted data folder
+McM
+McM-cropped
+
+# Cache
+__pycache__/
