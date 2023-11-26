@@ -9,3 +9,9 @@ McM-cropped
 
 # Cache
 __pycache__/
+
+# Training folder
+training
+
+# Logger fle
+*.log
